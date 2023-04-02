@@ -32,9 +32,10 @@ Normalizing the data
 Splitting the data into test and train
 
 ## PROGRAM:
-
+```
 Developed by: Akkireddy Ruchitha Reddy
 Register No: 212221230004
+```
 
 ```
 import pandas as pd
